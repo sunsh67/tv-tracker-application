@@ -2,9 +2,9 @@
 
 ## Status
 ```
-*unfollowed
-*following
-*followed
+unfollowed
+following
+followed
 ```
 Ideally every user should have three status about the Tv series they want to track, which are unfollowed, following and followed. But for now unfollowed and following status are most obivious in my application. Every user can follow unfollowed Tv series. Once a series being followed by a user this series will be in the user's collections list, which is marked as following status. And as for followed status, it means a user remove one series from whose collections list and theoretically this series will be collected in a history list(to be developed).
 
