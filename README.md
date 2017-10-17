@@ -1,5 +1,8 @@
 # TV Tracker Application 
 
+## What it looks like
+
+
 ## Status
 ```
 unfollowed
