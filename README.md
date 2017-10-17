@@ -1,7 +1,10 @@
 # TV Tracker Application 
 
 ## What it looks like
-
+<img width="1040" alt="1" src="https://user-images.githubusercontent.com/22160314/31694217-decafa44-b357-11e7-8836-3a67f8a3ee19.png">
+<img width="999" alt="2" src="https://user-images.githubusercontent.com/22160314/31694218-df158a0a-b357-11e7-8aa7-d755d8e98fa0.png">
+<img width="1010" alt="3" src="https://user-images.githubusercontent.com/22160314/31694219-df354b24-b357-11e7-8bc9-1ddf42fe607e.png">
+<img width="1071" alt="4" src="https://user-images.githubusercontent.com/22160314/31694220-df55ad9c-b357-11e7-9ab5-e609eb1f9f81.png">
 
 ## Status
 ```
